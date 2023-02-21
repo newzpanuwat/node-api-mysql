@@ -7,3 +7,4 @@
 - express
 - cors
 - mysql2
+- knex
